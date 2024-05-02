@@ -1,0 +1,13 @@
+/*global*/
+@import "global.css";
+@import "header.css";
+
+/*home*/
+@import "home.css";
+
+
+@import "about.css";
+@import "doctor.css";
+@import "news.css";
+@import "contact.css";
+@import "footer.css";
